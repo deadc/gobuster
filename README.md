@@ -1,3 +1,4 @@
+![automated](https://img.shields.io/docker/cloud/automated/deadc/gobuster.svg) ![status](https://img.shields.io/docker/cloud/build/deadc/gobuster.svg)
 ```bash
 docker run --rm -it -t deadc/gobuster \
   -u http://url.me/path/ \
